@@ -1,6 +1,7 @@
 class Solution:
     def stoneGame(self, piles):
         self.cache = [[-1 for j in piles] for i in piles]
+
         def helper(b, e):
             if b > e:
                 return 0
