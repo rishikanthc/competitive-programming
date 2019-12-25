@@ -20,6 +20,7 @@ The list of questions solved so far:
 10. 1227 - [Airplane Seat Assignment Probability][1227]
 11. 983 - [Minimum Cost for Tickets][983]
 12. 1048 - [Longest String Chain][1048]
+13. 303 - [Range Sum Query][303]
 
 [1025]: https://leetcode.com/problems/divisor-game
 [121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock<Paste>
@@ -33,3 +34,4 @@ The list of questions solved so far:
 [1227]: https://leetcode.com/problems/airplane-seat-assignment-probability
 [983]: https://leetcode.com/problems/minimum-cost-for-tickets
 [1048]: https://leetcode.com/problems/longest-string-chain
+[303]: https://leetcode.com/problems/range-sum-query-immutable/
